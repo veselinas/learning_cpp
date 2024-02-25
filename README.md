@@ -7,3 +7,4 @@ Books:
 - C++ 20 for Programmers https://www.oreilly.com/library/view/c20-for-programmers/9780136905776/
 - Pro Git https://git-scm.com/book/en/v2
 - GCC (GNU Compiler Collection) https://gcc.gnu.org/
+  git clone git://gcc.gnu.org/git/gcc.git SomeLocalDir
